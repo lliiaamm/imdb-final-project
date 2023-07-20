@@ -1,0 +1,15 @@
+.menu{
+    display: flex;
+    justify-content: space-around;
+    background-color: #223344;
+}
+
+.menu p{
+    color: #ccc;
+    cursor: pointer;
+}
+.menu a{
+    color: #ccc;
+    cursor: pointer;
+    text-decoration: none;
+}

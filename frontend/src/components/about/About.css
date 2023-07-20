@@ -1,0 +1,18 @@
+
+
+.about{
+   margin:5px;
+   padding: 5px;
+}
+
+.about-Menu > button{
+    width: 10vw;
+    color: white;
+    background-color: rgb(72, 72, 233);
+    outline: none;
+    border: 1px inset #BBB;
+    border-radius: 5px;
+    margin:5px;
+    padding:5px;
+    cursor: pointer;
+}

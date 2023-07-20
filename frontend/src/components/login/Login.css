@@ -1,0 +1,38 @@
+
+.login-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:5px;
+    padding:5px;
+
+}
+
+.login-container > input, .login-container > button{
+    width: 15vw;
+    outline: none;
+    border: 1px inset #BBB;
+    border-radius: 5px;
+    margin:5px;
+    padding:5px;
+} 
+
+.login-container > button{
+    width: 5rem;
+    color: white;
+    background-color: rgb(72, 72, 233);
+}
+
+.login-container > p{
+    width: 45vw;
+}
+
+.login-container > a{
+    width: 5rem;
+    color: white;
+    background-color: rgb(72, 72, 233);
+    text-decoration: none;
+    height: 4vh;
+    border: 1px inset #BBB;
+    border-radius: 5px;
+}

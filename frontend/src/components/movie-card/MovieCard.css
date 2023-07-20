@@ -1,0 +1,22 @@
+.movie-card{
+    padding: 5px;
+    margin: 5px;
+    padding: 2vw;
+    width: 30vw;
+}
+
+.movie-card > img{
+    width: 10vw;
+}
+
+.movie-card > button{
+    width: 5rem;
+    color: white;
+    background-color: rgb(72, 72, 233);
+    width: 15vw;
+    outline: none;
+    border: 1px inset #BBB;
+    border-radius: 5px;
+    margin:5px;
+    padding:5px;
+}
